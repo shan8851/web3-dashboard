@@ -8,3 +8,5 @@ A simple application that consumes the Moralis API to:
 - Allow sending of ETH to another wallet
 
 Overall styling and aesthetic needs work, the goal of this project was to learn more about the Moralis API and tooling. Site is only optimised for desktop currently and can be viewed [here](https://web3-dashboard-lac.vercel.app/)
+
+Hopefully in the future I will fix the responsive issues and overall look and feel of the application.
